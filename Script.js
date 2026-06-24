@@ -11,6 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         localStorage.setItem("qrData", text);
-        window.location.href = "Result.html";
+        window.location.href = "result.html";
     });
 });
