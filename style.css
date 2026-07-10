@@ -115,15 +115,3 @@ button:disabled {
     display: none;
 }
 
-#hero-btn {
-    display: block;
-    background-color: #3b82f6; /* Yeh exact wahi blue color shade hai */
-    color: white;
-    text-decoration: none;
-    padding: 12px;
-    border-radius: 6px;
-    font-weight: bold;
-    font-size: 14px;
-    text-align: center;
-    margin: 15px 0;
-}
